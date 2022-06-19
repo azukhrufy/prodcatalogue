@@ -1,0 +1,194 @@
+{
+    "products" : [
+        {
+            "title": "Bill Russel Black",
+            "description": "T-Shirt Oversize Erigo saat ini menjadi pilihan terbaik untuk tampil stylish dengan produk yang berkualitas tinggi dan berbagai pilihan warna. Dengan model oversize dan sablon timbul yang berkualitas, T-Shirt Oversize Erigo dapat menambahkan percaya dirimu untuk tampil lebih keren. T-Shirt Oversize Erigo dapat digunakan dengan dipadukan outerwear ataupun tidak. Apapun pilihanmu, T-shirt Oversize dapat membuat tampilanmu lebih menarik.",
+            "price": "78000",
+            "category": "t-shirt",
+            "image": "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Erigo-T-Shirt-Bill-Russel-Black-1.jpg",
+            "images": [
+                "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Erigo-T-Shirt-Bill-Russel-Black-1.jpg",
+                "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Erigo-T-Shirt-Bill-Russel-Black-5_1024x1024.jpg",
+                "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Erigo-T-Shirt-Bill-Russel-Black-4_1024x1024.jpg"
+            ],
+            "size": [
+                {
+                    "name": "S",
+                    "stock": "150",
+                    "price": "50000",
+                    "id":0
+                },
+                {
+                    "name": "M",
+                    "stock": "50",
+                    "price": "50000",
+                    "id":1
+                },
+                {
+                    "name": "L",
+                    "stock": "80",
+                    "price": "55000",
+                    "id":2
+                },
+                {
+                    "name": "XL",
+                    "stock": "60",
+                    "price": "60000",
+                    "id":3
+                }
+            ],
+            "id": 0
+        },{
+            "title": "Ciangi V2 SS Beige",
+            "description": "Kalau kamu membutuhkan kemeja yang adem, nyerap keringat, tidak panas, stretch/lentur, berarti Ciangi V2 SS ini cocok buat kamu. Selain kerahnya yang kita buat dengan tipe kerah tegak, cuttingan-nya yang slim juga membuat badan kamu lebih ramping dan keren loh!",
+            "price": "139.310",
+            "category": "shirt",
+            "image": "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/rug-1643468740978-1.jpg",
+            "images": [
+                "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/rug-1643468740978-1.jpg",
+                "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/rug-1643468740990-2.jpg",
+                "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/rug-1643468740995-3.jpg"
+            ],
+            "size": [
+                {
+                    "name": "S",
+                    "stock": "150",
+                    "price": "139.310",
+                    "id":0
+                },
+                {
+                    "name": "M",
+                    "stock": "50",
+                    "price": "140.000",
+                    "id":1
+                },
+                {
+                    "name": "L",
+                    "stock": "80",
+                    "price": "145.000",
+                    "id":2
+                }
+            ],
+            "id": 1
+        },
+        {
+            "title": "Rusten Emerald Jacket",
+            "description": "T-Shirt Oversize Erigo saat ini menjadi pilihan terbaik untuk tampil stylish dengan produk yang berkualitas tinggi dan berbagai pilihan warna. Dengan model oversize dan sablon timbul yang berkualitas, T-Shirt Oversize Erigo dapat menambahkan percaya dirimu untuk tampil lebih keren. T-Shirt Oversize Erigo dapat digunakan dengan dipadukan outerwear ataupun tidak. Apapun pilihanmu, T-shirt Oversize dapat membuat tampilanmu lebih menarik.",
+            "price": "159000",
+            "discount": "25000",
+            "category": "outer",
+            "image": "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Light-Weight-Jacket-Rusten-Emerald-1.jpg",
+            "images": [
+                "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Light-Weight-Jacket-Rusten-Emerald-1.jpg",
+                "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Light-Weight-Jacket-Rusten-Emerald-2.jpg",
+                "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Light-Weight-Jacket-Rusten-Emerald-3.jpg"
+            ],
+            "size": [
+                {
+                    "name": "S",
+                    "stock": "150",
+                    "price": "159000",
+                    "id":0
+                },
+                {
+                    "name": "M",
+                    "stock": "50",
+                    "price": "159000",
+                    "id":1
+                },
+                {
+                    "name": "L",
+                    "stock": "80",
+                    "price": "165000",
+                    "id":2
+                },
+                {
+                    "name": "XL",
+                    "stock": "60",
+                    "price": "165000",
+                    "id":3
+                }
+            ],
+            "id": 2
+        },
+        {
+            "title": "Jogging Terry Black",
+            "description": "T-Shirt Oversize Erigo saat ini menjadi pilihan terbaik untuk tampil stylish dengan produk yang berkualitas tinggi dan berbagai pilihan warna. Dengan model oversize dan sablon timbul yang berkualitas, T-Shirt Oversize Erigo dapat menambahkan percaya dirimu untuk tampil lebih keren. T-Shirt Oversize Erigo dapat digunakan dengan dipadukan outerwear ataupun tidak. Apapun pilihanmu, T-shirt Oversize dapat membuat tampilanmu lebih menarik.",
+            "price": "149.160",
+            "category": "pants",
+            "image": "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/JoggingTerryBlack_1_ba9e8691-96d2-48d7-8d52-6d29f3a3e42b.jpg",
+            "images": [
+                "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/JoggingTerryBlack_1_ba9e8691-96d2-48d7-8d52-6d29f3a3e42b.jpg",
+                "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/JoggingTerryBlack_2_228d9347-030d-44b3-a7cb-1b8755d8caba.jpg",
+                "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/JoggingTerryBlack_1_55181227-0bb1-40f5-9ea2-738b8df3e1db.jpg"
+            ],
+            "size": [
+                {
+                    "name": "S",
+                    "stock": "70",
+                    "price": "149.160",
+                    "id":0
+                },
+                {
+                    "name": "M",
+                    "stock": "50",
+                    "price": "150.160",
+                    "id":1
+                },
+                {
+                    "name": "L",
+                    "stock": "80",
+                    "price": "155.000",
+                    "id":2
+                },
+                {
+                    "name": "XL",
+                    "stock": "60",
+                    "price": "160.160",
+                    "id":3
+                }
+            ],
+            "id": 3
+        },
+        {
+            "title": "Hoodie Kareem Black 1",
+            "description": "Hoodie Kareem Black 1 Oversize Erigo saat ini menjadi pilihan terbaik untuk tampil stylish dengan produk yang berkualitas tinggi dan berbagai pilihan warna. Dengan model oversize dan sablon timbul yang berkualitas, T-Shirt Oversize Erigo dapat menambahkan percaya dirimu untuk tampil lebih keren. T-Shirt Oversize Erigo dapat digunakan dengan dipadukan outerwear ataupun tidak. Apapun pilihanmu, T-shirt Oversize dapat membuat tampilanmu lebih menarik.",
+            "price": "50000",
+            "discount": "25000",
+            "category": "outer",
+            "image": "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Hoodie-Kareem-Black-1_360x.jpg",
+            "images": [
+                "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Hoodie-Kareem-Black-1_360x.jpg",
+                "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Hoodie-Kareem-Black-2_360x.jpg",
+                "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Hoodie-Kareem-Black-3_360x.jpg"
+            ],
+            "size": [
+                {
+                    "name": "S",
+                    "stock": "150",
+                    "price": "50000",
+                    "id":0
+                },
+                {
+                    "name": "M",
+                    "stock": "50",
+                    "price": "50000",
+                    "id":1
+                },
+                {
+                    "name": "L",
+                    "stock": "80",
+                    "price": "55000",
+                    "id":2
+                },
+                {
+                    "name": "XL",
+                    "stock": "60",
+                    "price": "60000",
+                    "id":3
+                }
+            ],
+            "id": 4
+        }
+    ]
+    }
